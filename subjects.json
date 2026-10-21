@@ -1,0 +1,202 @@
+[
+  {
+    "code": "MA101",
+    "name": "Engineering Mathematics I",
+    "semester": 1
+  },
+  {
+    "code": "PH101",
+    "name": "Engineering Physics",
+    "semester": 1
+  },
+  {
+    "code": "CY101",
+    "name": "Engineering Chemistry",
+    "semester": 1
+  },
+  {
+    "code": "CS101",
+    "name": "Programming in C",
+    "semester": 1
+  },
+  {
+    "code": "EE101",
+    "name": "Basic Electrical Engineering",
+    "semester": 1
+  },
+  {
+    "code": "ME101",
+    "name": "Engineering Drawing",
+    "semester": 1
+  },
+  {
+    "code": "MA102",
+    "name": "Engineering Mathematics II",
+    "semester": 2
+  },
+  {
+    "code": "ME102",
+    "name": "Engineering Mechanics",
+    "semester": 2
+  },
+  {
+    "code": "CS201",
+    "name": "Data Structures",
+    "semester": 2
+  },
+  {
+    "code": "CS202",
+    "name": "Object Oriented Programming",
+    "semester": 2
+  },
+  {
+    "code": "EC201",
+    "name": "Digital Logic Design",
+    "semester": 2
+  },
+  {
+    "code": "EC202",
+    "name": "Basic Electronics",
+    "semester": 2
+  },
+  {
+    "code": "MA201",
+    "name": "Engineering Mathematics III",
+    "semester": 3
+  },
+  {
+    "code": "CS301",
+    "name": "Database Management Systems",
+    "semester": 3
+  },
+  {
+    "code": "CS302",
+    "name": "Operating Systems",
+    "semester": 3
+  },
+  {
+    "code": "CS303",
+    "name": "Computer Organization",
+    "semester": 3
+  },
+  {
+    "code": "CS304",
+    "name": "Discrete Mathematics",
+    "semester": 3
+  },
+  {
+    "code": "CS305",
+    "name": "Object Oriented Analysis and Design",
+    "semester": 3
+  },
+  {
+    "code": "HU301",
+    "name": "Engineering Economics",
+    "semester": 3
+  },
+  {
+    "code": "CS401",
+    "name": "Design and Analysis of Algorithms",
+    "semester": 4
+  },
+  {
+    "code": "CS402",
+    "name": "Computer Networks",
+    "semester": 4
+  },
+  {
+    "code": "CS403",
+    "name": "Software Engineering",
+    "semester": 4
+  },
+  {
+    "code": "CS404",
+    "name": "Theory of Computation",
+    "semester": 4
+  },
+  {
+    "code": "CS405",
+    "name": "Web Technologies",
+    "semester": 4
+  },
+  {
+    "code": "MA401",
+    "name": "Probability and Statistics",
+    "semester": 4
+  },
+  {
+    "code": "EC401",
+    "name": "Microprocessors and Microcontrollers",
+    "semester": 4
+  },
+  {
+    "code": "CS501",
+    "name": "Compiler Design",
+    "semester": 5
+  },
+  {
+    "code": "CS502",
+    "name": "Artificial Intelligence",
+    "semester": 5
+  },
+  {
+    "code": "CS503",
+    "name": "Machine Learning",
+    "semester": 5
+  },
+  {
+    "code": "CS504",
+    "name": "Information Security",
+    "semester": 5
+  },
+  {
+    "code": "CS505",
+    "name": "Cloud Computing",
+    "semester": 5
+  },
+  {
+    "code": "CS506",
+    "name": "Mobile Application Development",
+    "semester": 5
+  },
+  {
+    "code": "CS601",
+    "name": "Distributed Systems",
+    "semester": 6
+  },
+  {
+    "code": "CS602",
+    "name": "Big Data Analytics",
+    "semester": 6
+  },
+  {
+    "code": "CS603",
+    "name": "Internet of Things",
+    "semester": 6
+  },
+  {
+    "code": "CS604",
+    "name": "Human Computer Interaction",
+    "semester": 6
+  },
+  {
+    "code": "HU601",
+    "name": "Project Management",
+    "semester": 6
+  },
+  {
+    "code": "CS701",
+    "name": "Software Testing",
+    "semester": 7
+  },
+  {
+    "code": "CS702",
+    "name": "Blockchain Technology",
+    "semester": 7
+  },
+  {
+    "code": "CS799",
+    "name": "Major Project",
+    "semester": 8
+  }
+]
